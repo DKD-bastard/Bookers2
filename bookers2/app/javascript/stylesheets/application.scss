@@ -1,0 +1,22 @@
+@import '~bootstrap/scss/bootstrap';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+
+header{
+  background-color:#343a40;
+   
+}
+
+.header_box{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  font_size:1rem;
+  align-content: stretch;
+  flex-wrap: wrap;
+}
+
+.header_title{
+  txit-align: left;
+  
+}
